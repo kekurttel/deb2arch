@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=deb2arch Installer
+Comment=Convert and install Debian packages on Arch Linux
+Exec=/usr/bin/deb2arch-installer %f
+TryExec=/usr/bin/deb2arch-installer
+Icon=deb2arch-installer
+Terminal=false
+MimeType=application/vnd.debian.binary-package;application/gzip;application/x-compressed-tar;application/x-gzip;application/x-tar;
+Categories=System;PackageManager;
+StartupNotify=true
+NoDisplay=false
