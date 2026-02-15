@@ -1,0 +1,2 @@
+# Runtime Python modules for this project are provided by Arch system packages.
+# This file is kept for pip-based environments and currently has no extra entries.
