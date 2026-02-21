@@ -1,3 +1,8 @@
+İNSTALL THE APP FROM THE RELEASES TAB 
+I ADDED ELECTRON APP DOWNLOAND SUPPORT AND MADE THE GUİ MORE MODERN THANK U FOR USİNG 
+
+
+
 # deb2arch-installer
 
 `deb2arch-installer` is a minimal desktop utility for Arch Linux and Arch-based distributions.
